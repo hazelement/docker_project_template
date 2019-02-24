@@ -1,6 +1,6 @@
 # Docker project template
 
-This git repo is a template to bootstrap start a docker image oriented project. It contains the necessary files that docker project requires. 
+This git repo is a template to bootstrap starting a docker image oriented project. It contains the necessary files that docker project requires. 
 
 ## `.env`
 This file defines environment variables that are used when start containers using `docker-compose`. 
