@@ -4,10 +4,10 @@ FROM ubuntu:18.04
 # run commands
 RUN mycommand
 
-# copy file from host to docker image
+# copy file/folder from host to docker image
 COPY src dest
 
-# add file from host to docker image
+# add file/folder from host to docker image
 ADD src dest
 
 # define environment variable
