@@ -1,0 +1,7 @@
+# files that are not to be added to docker image
+
+.env
+.git
+.gitignore
+readme.md
+docker-compose*

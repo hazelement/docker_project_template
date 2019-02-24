@@ -1,0 +1,6 @@
+
+# build docker image with tag
+docker build -t project_name/image_name:version_name .
+
+# push image to docker registry
+docker push registry_ip:port/project_name/image_name:version_name
