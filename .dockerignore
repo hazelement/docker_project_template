@@ -1,7 +1,14 @@
 # files that are not to be added to docker image
 
+# hidden files
 .env
 .git
 .gitignore
+.DS_Store
+
+# other files
 readme.md
 docker-compose*
+
+# pycharm
+.idea
